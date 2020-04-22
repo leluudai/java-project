@@ -1,3 +1,3 @@
 # java-project
 
-Update and 1st commit for sample. 
+Update and 2nd commit for sample. 
